@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/github/smgladkovskiy/warehouse-task/branch/master/graph/badge.svg?token=d1jRkaovWa)](https://codecov.io/github/smgladkovskiy/warehouse-task)
+
 # Тестовое задание
 
 ## Описание
