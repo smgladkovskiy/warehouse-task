@@ -12,7 +12,7 @@
 * lastname
 * fullname (firstname + lastname) ([as method](internal/service/entities/user.go:39))
 * ~~age~~ birthdate
-* is_married
+* ~~is_married~~ marital status
 * password
 
 ###  [Product](internal/service/entities/product.go)
